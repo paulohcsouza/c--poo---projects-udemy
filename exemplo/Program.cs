@@ -7,7 +7,7 @@ namespace exemplo
     {
         static void Main(string[] args)
         {
-            //Testes com modificadores de string
+            //Testes com modificadores
 
             string original = "abcde FGHIJ ABC abc DEFG ";
             string s1 = original.ToUpper();
